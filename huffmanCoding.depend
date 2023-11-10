@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696569658 source:e:\euclid's algorithm\main.cpp
+	<iostream>
+
+1696570741 source:e:\codes\huffmancoding\main.cpp
+	<iostream>
+	<queue>
+	<map>
+	<string>
+
